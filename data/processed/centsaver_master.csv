@@ -8781,7 +8781,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-09-13,2 Place 0 to Place 3,Transportasi,7600,3,0,9,2018,0,dataset_3
 2018-09-13,HBR 2 Months subscription,Lainnya,15770,3,0,9,2018,1,dataset_3
 2018-09-13,1kg atta,Makanan & Minuman,8740,3,0,9,2018,1,dataset_3
-2018-08-31,,Keluarga & Sosial,190000,4,0,8,2018,0,dataset_3
+2018-08-31,Tanpa Deskripsi,Keluarga & Sosial,190000,4,0,8,2018,0,dataset_3
 2018-08-31,farewell contribution,Keluarga & Sosial,22420,4,0,8,2018,0,dataset_3
 2018-08-31,Domino's Pizza,Makanan & Minuman,97061,4,0,8,2018,1,dataset_3
 2018-08-31,Half lit  milk,Makanan & Minuman,6840,4,0,8,2018,1,dataset_3
@@ -8796,7 +8796,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-08-27,Half lit  milk,Makanan & Minuman,6840,0,0,8,2018,1,dataset_3
 2018-08-25,13 clothes ironing,Belanja & Lifestyle,17290,5,1,8,2018,1,dataset_3
 2018-08-24,Home Food Delivery,Makanan & Minuman,212800,4,0,8,2018,1,dataset_3
-2018-08-24,,Makanan & Minuman,3800,4,0,8,2018,1,dataset_3
+2018-08-24,Tanpa Deskripsi,Makanan & Minuman,3800,4,0,8,2018,1,dataset_3
 2018-08-24,Half lit  milk,Makanan & Minuman,6840,4,0,8,2018,1,dataset_3
 2018-08-24,Ganpati+ navratri vargani,Hiburan & Gaya Hidup,190000,4,0,8,2018,1,dataset_3
 2018-08-23,2 Place 2 to Place 3 : Sevagram express 3AC,Transportasi,248026,3,0,8,2018,0,dataset_3
@@ -8810,7 +8810,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-08-16,Permanent Residence - Tata Play recharge,Langganan Digital,29830,3,0,8,2018,1,dataset_3
 2018-08-15,Warna Srikhand half kg,Makanan & Minuman,55100,2,0,8,2018,1,dataset_3
 2018-08-15,M D sure 4kg atta,Makanan & Minuman,41040,2,0,8,2018,1,dataset_3
-2018-08-14,,Keluarga & Sosial,5700,1,0,8,2018,0,dataset_3
+2018-08-14,Tanpa Deskripsi,Keluarga & Sosial,5700,1,0,8,2018,0,dataset_3
 2018-08-14,Dahi,Makanan & Minuman,6080,1,0,8,2018,1,dataset_3
 2018-08-14,Toothpaste Patanjali,Kebutuhan Rumah Tangga,30400,1,0,8,2018,0,dataset_3
 2018-08-14,8 clothes ironing,Belanja & Lifestyle,10640,1,0,8,2018,1,dataset_3
@@ -8825,7 +8825,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-07-31,July salary,Kebutuhan Rumah Tangga,380000,1,0,7,2018,0,dataset_3
 2018-07-31,10 melody,Makanan & Minuman,1900,1,0,7,2018,1,dataset_3
 2018-07-30,Glucose D(50) + flora bc (40)+cyra 20(10),Kesehatan,19000,0,0,7,2018,0,dataset_3
-2018-07-30,,Kesehatan,25080,0,0,7,2018,0,dataset_3
+2018-07-30,Tanpa Deskripsi,Kesehatan,25080,0,0,7,2018,0,dataset_3
 2018-07-30,Catering Service,Makanan & Minuman,40280,0,0,7,2018,1,dataset_3
 2018-07-30,1 plates poha,Makanan & Minuman,4750,0,0,7,2018,1,dataset_3
 2018-07-29,Paneer pizza,Makanan & Minuman,49400,6,1,7,2018,1,dataset_3
@@ -8833,9 +8833,9 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-07-29,Current Residence to Place 0,Transportasi,2850,6,1,7,2018,0,dataset_3
 2018-07-29,2 Place 0 to Place A returns,Transportasi,7600,6,1,7,2018,0,dataset_3
 2018-07-29,Medu vada 3 plate,Makanan & Minuman,19950,6,1,7,2018,1,dataset_3
-2018-07-28,,Keluarga & Sosial,38000,5,1,7,2018,0,dataset_3
+2018-07-28,Tanpa Deskripsi,Keluarga & Sosial,38000,5,1,7,2018,0,dataset_3
 2018-07-28,2 INOX ,Hiburan & Gaya Hidup,91458,5,1,7,2018,1,dataset_3
-2018-07-28,,Makanan & Minuman,37050,5,1,7,2018,1,dataset_3
+2018-07-28,Tanpa Deskripsi,Makanan & Minuman,37050,5,1,7,2018,1,dataset_3
 2018-07-28,Supermart,Kebutuhan Rumah Tangga,712500,5,1,7,2018,0,dataset_3
 2018-07-27,Demat account charges,Lainnya,156940,4,0,7,2018,1,dataset_3
 2018-07-26,Toast packet,Makanan & Minuman,7600,3,0,7,2018,1,dataset_3
@@ -8856,8 +8856,8 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-07-16,12 clothes ironing,Belanja & Lifestyle,15960,0,0,7,2018,1,dataset_3
 2018-07-16,Sony WI-C100 earphones wireless,Kebutuhan Rumah Tangga,226100,0,0,7,2018,0,dataset_3
 2018-07-16,7 kachori,Makanan & Minuman,15960,0,0,7,2018,1,dataset_3
-2018-07-15,,Makanan & Minuman,5700,6,1,7,2018,1,dataset_3
-2018-07-15,,Makanan & Minuman,95000,6,1,7,2018,1,dataset_3
+2018-07-15,Tanpa Deskripsi,Makanan & Minuman,5700,6,1,7,2018,1,dataset_3
+2018-07-15,Tanpa Deskripsi,Makanan & Minuman,95000,6,1,7,2018,1,dataset_3
 2018-07-15,4 kachori,Makanan & Minuman,9120,6,1,7,2018,1,dataset_3
 2018-07-14,CA  - income tax filing,Lainnya,380000,5,1,7,2018,1,dataset_3
 2018-07-13,Ola cab - eye institute to Current Residence CHS,Transportasi,35720,4,0,7,2018,0,dataset_3
@@ -8897,9 +8897,9 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-06-24,Permanent Residence - Tata Play recharge,Langganan Digital,29830,6,1,6,2018,1,dataset_3
 2018-06-24,2 Vadapav 2 samosa pav,Makanan & Minuman,11400,6,1,6,2018,1,dataset_3
 2018-06-23,Annual recharge,Langganan Digital,483550,5,1,6,2018,1,dataset_3
-2018-06-23,,Transportasi,5700,5,1,6,2018,0,dataset_3
+2018-06-23,Tanpa Deskripsi,Transportasi,5700,5,1,6,2018,0,dataset_3
 2018-06-22,Data booster pack,Langganan Digital,34390,4,0,6,2018,1,dataset_3
-2018-06-19,,Keluarga & Sosial,380000,1,0,6,2018,0,dataset_3
+2018-06-19,Tanpa Deskripsi,Keluarga & Sosial,380000,1,0,6,2018,0,dataset_3
 2018-06-19,Data booster pack,Langganan Digital,4750,1,0,6,2018,1,dataset_3
 2018-06-18,Data booster pack,Langganan Digital,2850,0,0,6,2018,1,dataset_3
 2018-06-15,Data booster pack,Langganan Digital,2850,4,0,6,2018,1,dataset_3
@@ -8911,7 +8911,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-05-24,Data booster pack,Langganan Digital,126730,3,0,5,2018,1,dataset_3
 2018-05-23,Permanent Residence - Tata Play recharge,Langganan Digital,31540,2,0,5,2018,1,dataset_3
 2018-05-22,2 All out refill,Kesehatan,29260,1,0,5,2018,0,dataset_3
-2018-05-21,,Keluarga & Sosial,26600,0,0,5,2018,0,dataset_3
+2018-05-21,Tanpa Deskripsi,Keluarga & Sosial,26600,0,0,5,2018,0,dataset_3
 2018-05-20,"Soap, shampoo, razor",Keluarga & Sosial,23180,6,1,5,2018,0,dataset_3
 2018-05-19,flour mill,Kebutuhan Rumah Tangga,4750,5,1,5,2018,0,dataset_3
 2018-05-19,Data booster pack,Langganan Digital,2850,5,1,5,2018,1,dataset_3
@@ -8936,16 +8936,16 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-04-30,To Family,Keluarga & Sosial,95000,0,0,4,2018,0,dataset_3
 2018-04-29,2 sugarcane juice,Makanan & Minuman,7600,6,1,4,2018,1,dataset_3
 2018-04-28,Home Food Delivery,Makanan & Minuman,78470,5,1,4,2018,1,dataset_3
-2018-04-28,,Keluarga & Sosial,95000,5,1,4,2018,0,dataset_3
+2018-04-28,Tanpa Deskripsi,Keluarga & Sosial,95000,5,1,4,2018,0,dataset_3
 2018-04-27,Supermart,Kebutuhan Rumah Tangga,56050,4,0,4,2018,0,dataset_3
 2018-04-26,Noodles packet,Makanan & Minuman,5700,3,0,4,2018,1,dataset_3
 2018-04-26,milk 1lit ,Makanan & Minuman,13680,3,0,4,2018,1,dataset_3
-2018-04-26,,Keluarga & Sosial,190000,3,0,4,2018,0,dataset_3
+2018-04-26,Tanpa Deskripsi,Keluarga & Sosial,190000,3,0,4,2018,0,dataset_3
 2018-04-25,Catering Service,Makanan & Minuman,13300,2,0,4,2018,1,dataset_3
 2018-04-24,Permanent Residence - Tata Play recharge,Langganan Digital,29830,1,0,4,2018,1,dataset_3
 2018-04-23,Idli pith 1kg,Kebutuhan Rumah Tangga,7220,0,0,4,2018,0,dataset_3
-2018-04-23,,Kebutuhan Rumah Tangga,95000,0,0,4,2018,0,dataset_3
-2018-04-22,,Makanan & Minuman,1900,6,1,4,2018,1,dataset_3
+2018-04-23,Tanpa Deskripsi,Kebutuhan Rumah Tangga,95000,0,0,4,2018,0,dataset_3
+2018-04-22,Tanpa Deskripsi,Makanan & Minuman,1900,6,1,4,2018,1,dataset_3
 2018-04-22,Supermart,Kebutuhan Rumah Tangga,36100,6,1,4,2018,0,dataset_3
 2018-04-22,milk 1lit ,Makanan & Minuman,13680,6,1,4,2018,1,dataset_3
 2018-04-21,Naturals,Makanan & Minuman,30400,5,1,4,2018,1,dataset_3
@@ -9000,9 +9000,9 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-03-22,milk 1lit ,Makanan & Minuman,13680,3,0,3,2018,1,dataset_3
 2018-03-21,2 kachori,Makanan & Minuman,4560,2,0,3,2018,1,dataset_3
 2018-03-21,Idli pith 1kg,Kebutuhan Rumah Tangga,7220,2,0,3,2018,0,dataset_3
-2018-03-21,,Keluarga & Sosial,9500,2,0,3,2018,0,dataset_3
+2018-03-21,Tanpa Deskripsi,Keluarga & Sosial,9500,2,0,3,2018,0,dataset_3
 2018-03-20,2 Fried rice,Makanan & Minuman,46740,1,0,3,2018,1,dataset_3
-2018-03-20,,Lainnya,3230,1,0,3,2018,1,dataset_3
+2018-03-20,Tanpa Deskripsi,Lainnya,3230,1,0,3,2018,1,dataset_3
 2018-03-20,Chicken lollypop 8 pcs,Makanan & Minuman,40992,1,0,3,2018,1,dataset_3
 2018-03-20,Bread,Makanan & Minuman,3420,1,0,3,2018,1,dataset_3
 2018-03-20,6 eggs,Makanan & Minuman,6840,1,0,3,2018,1,dataset_3
@@ -9022,7 +9022,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-03-14,Mayonnaise + cheese cubes,Kebutuhan Rumah Tangga,26600,2,0,3,2018,0,dataset_3
 2018-03-14,onion 2 kg,Makanan & Minuman,7600,2,0,3,2018,1,dataset_3
 2018-03-14,Domino's Pizza,Makanan & Minuman,109820,2,0,3,2018,1,dataset_3
-2018-03-13,,Keluarga & Sosial,91200,1,0,3,2018,0,dataset_3
+2018-03-13,Tanpa Deskripsi,Keluarga & Sosial,91200,1,0,3,2018,0,dataset_3
 2018-03-13,Half lit  milk,Makanan & Minuman,6840,1,0,3,2018,1,dataset_3
 2018-02-28,Khari packet,Makanan & Minuman,8550,2,0,2,2018,1,dataset_3
 2018-02-28,Half lit Varna milk,Makanan & Minuman,6840,2,0,2,2018,1,dataset_3
@@ -9047,7 +9047,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-02-19,1 lit ,Makanan & Minuman,13680,0,0,2,2018,1,dataset_3
 2018-02-19,2 kachori,Makanan & Minuman,4560,0,0,2,2018,1,dataset_3
 2018-02-17,BBQ,Makanan & Minuman,338770,5,1,2,2018,1,dataset_3
-2018-02-17,,Keluarga & Sosial,683620,5,1,2,2018,0,dataset_3
+2018-02-17,Tanpa Deskripsi,Keluarga & Sosial,683620,5,1,2,2018,0,dataset_3
 2018-02-17,Mall parking,Transportasi,3800,5,1,2,2018,0,dataset_3
 2018-02-17,5 chapati,Makanan & Minuman,5700,5,1,2,2018,1,dataset_3
 2018-02-16,banana chips,Makanan & Minuman,8550,4,0,2,2018,1,dataset_3
@@ -9066,7 +9066,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-01-31,1 lit ,Makanan & Minuman,13110,2,0,1,2018,1,dataset_3
 2018-01-30,Matchbox packet 10pcs,Kebutuhan Rumah Tangga,1900,1,0,1,2018,0,dataset_3
 2018-01-30,Dahi 2 packets,Makanan & Minuman,3800,1,0,1,2018,1,dataset_3
-2018-01-30,,Keluarga & Sosial,19000,1,0,1,2018,0,dataset_3
+2018-01-30,Tanpa Deskripsi,Keluarga & Sosial,19000,1,0,1,2018,0,dataset_3
 2018-01-29,Khari packet,Makanan & Minuman,8550,0,0,1,2018,1,dataset_3
 2018-01-29,6 eggs,Makanan & Minuman,7980,0,0,1,2018,1,dataset_3
 2018-01-29,1 lit ,Makanan & Minuman,13110,0,0,1,2018,1,dataset_3
@@ -9089,7 +9089,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2018-01-22,1 lit ,Makanan & Minuman,13110,0,0,1,2018,1,dataset_3
 2018-01-21,Home Food Delivery,Makanan & Minuman,72960,6,1,1,2018,1,dataset_3
 2018-01-20,crack-jack 1 packi,Makanan & Minuman,1900,5,1,1,2018,1,dataset_3
-2018-01-20,,Makanan & Minuman,8550,5,1,1,2018,1,dataset_3
+2018-01-20,Tanpa Deskripsi,Makanan & Minuman,8550,5,1,1,2018,1,dataset_3
 2018-01-20,Permanent Residence - Tata Play recharge,Langganan Digital,34010,5,1,1,2018,1,dataset_3
 2018-01-19,Flatbread 6 pcs,Makanan & Minuman,3230,4,0,1,2018,1,dataset_3
 2018-01-19,Amul butter,Kebutuhan Rumah Tangga,10070,4,0,1,2018,0,dataset_3
@@ -9119,8 +9119,8 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-12-30,Dudhi 20 + mirchi 5,Makanan & Minuman,4750,5,1,12,2017,1,dataset_3
 2017-12-29,For utensils,Keluarga & Sosial,85500,4,0,12,2017,0,dataset_3
 2017-12-29,3 pavwada,Makanan & Minuman,5700,4,0,12,2017,1,dataset_3
-2017-12-29,,Kebutuhan Rumah Tangga,34580,4,0,12,2017,0,dataset_3
-2017-12-29,,Makanan & Minuman,950,4,0,12,2017,1,dataset_3
+2017-12-29,Tanpa Deskripsi,Kebutuhan Rumah Tangga,34580,4,0,12,2017,0,dataset_3
+2017-12-29,Tanpa Deskripsi,Makanan & Minuman,950,4,0,12,2017,1,dataset_3
 2017-12-29,Data booster pack,Langganan Digital,34390,4,0,12,2017,1,dataset_3
 2017-12-28,Ginger,Makanan & Minuman,1900,3,0,12,2017,1,dataset_3
 2017-12-27,Tata salt 28+ 6 eggs 42,Makanan & Minuman,13300,2,0,12,2017,1,dataset_3
@@ -9140,7 +9140,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-12-21,Catering Service,Makanan & Minuman,12350,3,0,12,2017,1,dataset_3
 2017-12-21,milk 1lit ,Makanan & Minuman,13300,3,0,12,2017,1,dataset_3
 2017-12-20,Catering Service,Makanan & Minuman,18050,2,0,12,2017,1,dataset_3
-2017-12-19,,Keluarga & Sosial,95000,1,0,12,2017,0,dataset_3
+2017-12-19,Tanpa Deskripsi,Keluarga & Sosial,95000,1,0,12,2017,0,dataset_3
 2017-12-19,Chicken Frankie,Makanan & Minuman,8550,1,0,12,2017,1,dataset_3
 2017-12-19,Place 0 to WS return,Transportasi,1900,1,0,12,2017,0,dataset_3
 2017-12-19,milk 1lit ,Makanan & Minuman,13110,1,0,12,2017,1,dataset_3
@@ -9157,16 +9157,16 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-12-15,chocobar,Makanan & Minuman,2850,4,0,12,2017,1,dataset_3
 2017-12-14,Paneer + 1 kg onion,Makanan & Minuman,27550,3,0,12,2017,1,dataset_3
 2017-12-13,clothes ironing,Belanja & Lifestyle,18620,2,0,12,2017,1,dataset_3
-2017-12-13,,Keluarga & Sosial,3800,2,0,12,2017,0,dataset_3
+2017-12-13,Tanpa Deskripsi,Keluarga & Sosial,3800,2,0,12,2017,0,dataset_3
 2017-12-13,milk 1lit ,Makanan & Minuman,13110,2,0,12,2017,1,dataset_3
 2017-11-30,5 Meftal spas,Kesehatan,4180,3,0,11,2017,0,dataset_3
 2017-11-30,Glasses remaining,Kesehatan,152000,3,0,11,2017,0,dataset_3
 2017-11-30,Change,Keluarga & Sosial,9500,3,0,11,2017,0,dataset_3
 2017-11-28,Sweet bread cake pav kg,Makanan & Minuman,17100,1,0,11,2017,1,dataset_3
 2017-11-28,6 eggs,Makanan & Minuman,7980,1,0,11,2017,1,dataset_3
-2017-11-28,,Makanan & Minuman,3420,1,0,11,2017,1,dataset_3
+2017-11-28,Tanpa Deskripsi,Makanan & Minuman,3420,1,0,11,2017,1,dataset_3
 2017-11-28,Toast+ biscuits,Kebutuhan Rumah Tangga,21850,1,0,11,2017,0,dataset_3
-2017-11-28,,Makanan & Minuman,26600,1,0,11,2017,1,dataset_3
+2017-11-28,Tanpa Deskripsi,Makanan & Minuman,26600,1,0,11,2017,1,dataset_3
 2017-11-28,1 lit ,Makanan & Minuman,13110,1,0,11,2017,1,dataset_3
 2017-11-27,Glasses advance,Kesehatan,190000,0,0,11,2017,0,dataset_3
 2017-11-27,2 Place 0 to Current Residence,Transportasi,5700,0,0,11,2017,0,dataset_3
@@ -9195,7 +9195,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-11-19,2 PVR Place 6,Hiburan & Gaya Hidup,82840,6,1,11,2017,1,dataset_3
 2017-11-18,Khobra + shengdana+ vim bar,Kebutuhan Rumah Tangga,45980,5,1,11,2017,0,dataset_3
 2017-11-18,6 eggs,Makanan & Minuman,7410,5,1,11,2017,1,dataset_3
-2017-11-18,,Langganan Digital,27930,5,1,11,2017,1,dataset_3
+2017-11-18,Tanpa Deskripsi,Langganan Digital,27930,5,1,11,2017,1,dataset_3
 2017-11-18,Marathon,Pendidikan,180500,5,1,11,2017,0,dataset_3
 2017-11-18,1.5 lit milk ,Makanan & Minuman,19760,5,1,11,2017,1,dataset_3
 2017-11-17,Vanila family pack,Makanan & Minuman,19950,4,0,11,2017,1,dataset_3
@@ -9207,8 +9207,8 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-11-15,Photo paper print,Pendidikan,8550,2,0,11,2017,0,dataset_3
 2017-11-15,brown bread,Makanan & Minuman,4750,2,0,11,2017,1,dataset_3
 2017-11-15,Amul butter 52 + Good Day biscuits 43,Kebutuhan Rumah Tangga,18050,2,0,11,2017,0,dataset_3
-2017-11-14,,Makanan & Minuman,23750,1,0,11,2017,1,dataset_3
-2017-11-14,,Keluarga & Sosial,146300,1,0,11,2017,0,dataset_3
+2017-11-14,Tanpa Deskripsi,Makanan & Minuman,23750,1,0,11,2017,1,dataset_3
+2017-11-14,Tanpa Deskripsi,Keluarga & Sosial,146300,1,0,11,2017,0,dataset_3
 2017-11-14,vegetables,Makanan & Minuman,30400,1,0,11,2017,1,dataset_3
 2017-11-13,Pani Puri packet + Bundi + chivda,Kebutuhan Rumah Tangga,34200,0,0,11,2017,0,dataset_3
 2017-11-13,milk 1lit varna,Makanan & Minuman,13300,0,0,11,2017,1,dataset_3
@@ -9229,18 +9229,18 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-10-23,Aakash kandil,Hiburan & Gaya Hidup,38000,0,0,10,2017,1,dataset_3
 2017-10-23,Dettol liquid handwash refill,Kebutuhan Rumah Tangga,18810,0,0,10,2017,0,dataset_3
 2017-10-23,flour mill,Kebutuhan Rumah Tangga,5130,0,0,10,2017,0,dataset_3
-2017-10-23,,Kebutuhan Rumah Tangga,9500,0,0,10,2017,0,dataset_3
+2017-10-23,Tanpa Deskripsi,Kebutuhan Rumah Tangga,9500,0,0,10,2017,0,dataset_3
 2017-10-23,Permanent Residence - Tata Play recharge,Langganan Digital,36290,0,0,10,2017,1,dataset_3
 2017-10-22,Current Residence to Place 1 bus stop highway,Transportasi,9500,6,1,10,2017,0,dataset_3
 2017-10-21,ipad cover + case,Lainnya,358720,5,1,10,2017,1,dataset_3
 2017-10-21,Onion half kg 13 + milkybar 10 + Colgate maxfresh 10,Makanan & Minuman,6270,5,1,10,2017,1,dataset_3
-2017-10-21,,Kebutuhan Rumah Tangga,380000,5,1,10,2017,0,dataset_3
+2017-10-21,Tanpa Deskripsi,Kebutuhan Rumah Tangga,380000,5,1,10,2017,0,dataset_3
 2017-10-20,farewell contribution,Keluarga & Sosial,38000,4,0,10,2017,0,dataset_3
 2017-10-20,Rangoli + stamp,Hiburan & Gaya Hidup,3800,4,0,10,2017,1,dataset_3
 2017-10-19,Gupta bhel,Makanan & Minuman,4750,3,0,10,2017,1,dataset_3
 2017-10-18,2 Place 2 to Place 3 : Sevagram express 3AC,Transportasi,253270,2,0,10,2017,0,dataset_3
 2017-10-18,2 Place 3 to Place 2 : Amritsar express 3AC,Transportasi,233890,2,0,10,2017,0,dataset_3
-2017-10-13,,Keluarga & Sosial,13300,4,0,10,2017,0,dataset_3
+2017-10-13,Tanpa Deskripsi,Keluarga & Sosial,13300,4,0,10,2017,0,dataset_3
 2017-09-30,Candid dusting powder,Kesehatan,11210,5,1,9,2017,0,dataset_3
 2017-09-30,Supermart,Kebutuhan Rumah Tangga,29450,5,1,9,2017,0,dataset_3
 2017-09-30,vegetables,Makanan & Minuman,25650,5,1,9,2017,1,dataset_3
@@ -9252,7 +9252,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-09-29,3 tablet Nor tz,Kesehatan,3990,4,0,9,2017,0,dataset_3
 2017-09-28,Current Residence - Tata Play recharge,Langganan Digital,40850,3,0,9,2017,1,dataset_3
 2017-09-28,2 Place 1 to Place 2 - Novelty tour and travels,Transportasi,453720,3,0,9,2017,0,dataset_3
-2017-09-27,,Kebutuhan Rumah Tangga,59280,2,0,9,2017,0,dataset_3
+2017-09-27,Tanpa Deskripsi,Kebutuhan Rumah Tangga,59280,2,0,9,2017,0,dataset_3
 2017-09-27,farewell contribution,Keluarga & Sosial,63460,2,0,9,2017,0,dataset_3
 2017-09-25,half kg chiku,Makanan & Minuman,5700,0,0,9,2017,1,dataset_3
 2017-09-25,Apple 2 kg (110) + Banana 1kg (80),Makanan & Minuman,57000,0,0,9,2017,1,dataset_3
@@ -9265,30 +9265,30 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-09-21,Umbrella cover repair,Lainnya,1900,3,0,9,2017,1,dataset_3
 2017-09-21,Place 0 to Current Residence,Transportasi,2850,3,0,9,2017,0,dataset_3
 2017-09-21,Vadapav,Makanan & Minuman,2850,3,0,9,2017,1,dataset_3
-2017-09-21,,Makanan & Minuman,1900,3,0,9,2017,1,dataset_3
+2017-09-21,Tanpa Deskripsi,Makanan & Minuman,1900,3,0,9,2017,1,dataset_3
 2017-09-21,Place 0 to dadar return,Transportasi,5700,3,0,9,2017,0,dataset_3
-2017-09-21,,Keluarga & Sosial,13300,3,0,9,2017,0,dataset_3
+2017-09-21,Tanpa Deskripsi,Keluarga & Sosial,13300,3,0,9,2017,0,dataset_3
 2017-09-20,Surgical gloves pair,Kesehatan,3800,2,0,9,2017,0,dataset_3
 2017-09-20,CSR,Lainnya,19000,2,0,9,2017,1,dataset_3
-2017-09-20,,Keluarga & Sosial,3800,2,0,9,2017,0,dataset_3
-2017-09-18,,Kesehatan,10450,0,0,9,2017,0,dataset_3
+2017-09-20,Tanpa Deskripsi,Keluarga & Sosial,3800,2,0,9,2017,0,dataset_3
+2017-09-18,Tanpa Deskripsi,Kesehatan,10450,0,0,9,2017,0,dataset_3
 2017-09-18,half kg chiku,Makanan & Minuman,11400,0,0,9,2017,1,dataset_3
 2017-09-18,Nariyal,Makanan & Minuman,10450,0,0,9,2017,1,dataset_3
-2017-09-17,,Kebutuhan Rumah Tangga,21660,6,1,9,2017,0,dataset_3
-2017-09-17,,Kesehatan,28690,6,1,9,2017,0,dataset_3
+2017-09-17,Tanpa Deskripsi,Kebutuhan Rumah Tangga,21660,6,1,9,2017,0,dataset_3
+2017-09-17,Tanpa Deskripsi,Kesehatan,28690,6,1,9,2017,0,dataset_3
 2017-09-17,Supermart,Kebutuhan Rumah Tangga,106020,6,1,9,2017,0,dataset_3
-2017-09-17,,Makanan & Minuman,6650,6,1,9,2017,1,dataset_3
+2017-09-17,Tanpa Deskripsi,Makanan & Minuman,6650,6,1,9,2017,1,dataset_3
 2017-09-17,1.5 lit milk ,Makanan & Minuman,18810,6,1,9,2017,1,dataset_3
 2017-09-15,Sugaran Kitchen,Makanan & Minuman,11400,4,0,9,2017,1,dataset_3
-2017-09-15,,Makanan & Minuman,24700,4,0,9,2017,1,dataset_3
+2017-09-15,Tanpa Deskripsi,Makanan & Minuman,24700,4,0,9,2017,1,dataset_3
 2017-09-15,Nariyal,Makanan & Minuman,10450,4,0,9,2017,1,dataset_3
-2017-09-15,,Kesehatan,70870,4,0,9,2017,0,dataset_3
+2017-09-15,Tanpa Deskripsi,Kesehatan,70870,4,0,9,2017,0,dataset_3
 2017-09-15,Doctor Fees,Kesehatan,28500,4,0,9,2017,0,dataset_3
 2017-09-15,2 Place 2 to Place 1 - Novelty tour and travels,Transportasi,266000,4,0,9,2017,0,dataset_3
 2017-09-15,2 tea parcel,Makanan & Minuman,4560,4,0,9,2017,1,dataset_3
 2017-09-15,2 plates poha,Makanan & Minuman,9500,4,0,9,2017,1,dataset_3
 2017-09-15,milk 1lit ,Makanan & Minuman,12540,4,0,9,2017,1,dataset_3
-2017-09-14,,Makanan & Minuman,53580,3,0,9,2017,1,dataset_3
+2017-09-14,Tanpa Deskripsi,Makanan & Minuman,53580,3,0,9,2017,1,dataset_3
 2017-09-14,Current Residence - Tata Play recharge,Langganan Digital,19000,3,0,9,2017,1,dataset_3
 2017-09-13,Sugaran Kitchen,Makanan & Minuman,20900,2,0,9,2017,1,dataset_3
 2017-08-31,Sms charges + GST,Lainnya,3363,3,0,8,2017,1,dataset_3
@@ -9312,7 +9312,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-08-24,Jaipuri handprinted Maharani Saree (1850 Two pcs + 1500 1 pc),Belanja & Lifestyle,988000,3,0,8,2017,1,dataset_3
 2017-08-23,180 Chicken Sandwich + 120 vada pav & Samosa,Makanan & Minuman,57000,2,0,8,2017,1,dataset_3
 2017-08-23,Ola cab - Current Residence to Domestic airport T1,Transportasi,161500,2,0,8,2017,0,dataset_3
-2017-08-22,,Keluarga & Sosial,950000,1,0,8,2017,0,dataset_3
+2017-08-22,Tanpa Deskripsi,Keluarga & Sosial,950000,1,0,8,2017,0,dataset_3
 2017-08-22,Mahanagar Gas connection installation,Kebutuhan Rumah Tangga,57000,1,0,8,2017,0,dataset_3
 2017-08-21,Selfie stick Bluetooth tripod,Kebutuhan Rumah Tangga,53200,0,0,8,2017,0,dataset_3
 2017-08-21,Shaving,Kecantikan & Perawatan,9500,0,0,8,2017,1,dataset_3
@@ -9333,8 +9333,8 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-08-19,Colgate max fresh small,Kebutuhan Rumah Tangga,3800,5,1,8,2017,0,dataset_3
 2017-08-19,Dettol sanitizer,Kebutuhan Rumah Tangga,8550,5,1,8,2017,0,dataset_3
 2017-08-19,Current Residence - Tata Play recharge,Langganan Digital,41230,5,1,8,2017,1,dataset_3
-2017-08-18,,Keluarga & Sosial,19000,4,0,8,2017,0,dataset_3
-2017-08-17,,Kebutuhan Rumah Tangga,193800,3,0,8,2017,0,dataset_3
+2017-08-18,Tanpa Deskripsi,Keluarga & Sosial,19000,4,0,8,2017,0,dataset_3
+2017-08-17,Tanpa Deskripsi,Kebutuhan Rumah Tangga,193800,3,0,8,2017,0,dataset_3
 2017-08-17,Sugar 1kg Rs.55 + shengdana Rs.33,Kebutuhan Rumah Tangga,16720,3,0,8,2017,0,dataset_3
 2017-08-17,2 Bhaji pav + 1 vadapav,Makanan & Minuman,8550,3,0,8,2017,1,dataset_3
 2017-08-15,Wifi Router TP link,Kebutuhan Rumah Tangga,266000,1,0,8,2017,0,dataset_3
@@ -9370,7 +9370,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-07-22,milk 1lit ,Makanan & Minuman,12160,5,1,7,2017,1,dataset_3
 2017-07-21,CA  - income tax filing,Lainnya,190000,4,0,7,2017,1,dataset_3
 2017-07-21,Half lit  milk,Makanan & Minuman,6270,4,0,7,2017,1,dataset_3
-2017-07-20,,Makanan & Minuman,16720,3,0,7,2017,1,dataset_3
+2017-07-20,Tanpa Deskripsi,Makanan & Minuman,16720,3,0,7,2017,1,dataset_3
 2017-07-20,Puri packet of 50 pcs,Makanan & Minuman,9500,3,0,7,2017,1,dataset_3
 2017-07-20,Annual recharge,Langganan Digital,483550,3,0,7,2017,1,dataset_3
 2017-07-20,Half lit  milk,Makanan & Minuman,6080,3,0,7,2017,1,dataset_3
@@ -9398,7 +9398,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-06-28,2 Current Residence to Place 0,Transportasi,5700,2,0,6,2017,0,dataset_3
 2017-06-28,Chicken lollypop 4 pcs,Makanan & Minuman,35435,2,0,6,2017,1,dataset_3
 2017-06-28,5rs mirchi + crack-jack,Makanan & Minuman,2850,2,0,6,2017,1,dataset_3
-2017-06-28,,Keluarga & Sosial,285000,2,0,6,2017,0,dataset_3
+2017-06-28,Tanpa Deskripsi,Keluarga & Sosial,285000,2,0,6,2017,0,dataset_3
 2017-06-28,House Cleaning + washing utensils,Kebutuhan Rumah Tangga,380000,2,0,6,2017,0,dataset_3
 2017-06-27,Cough-sills 4 pcs,Kesehatan,2280,1,0,6,2017,0,dataset_3
 2017-06-26,2 kachori,Makanan & Minuman,4560,0,0,6,2017,1,dataset_3
@@ -9439,19 +9439,19 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-05-29,Half kg potato + half kg banana,Makanan & Minuman,6650,0,0,5,2017,1,dataset_3
 2017-05-29,Xerox,Pendidikan,5700,0,0,5,2017,0,dataset_3
 2017-05-29,milk 1lit ,Makanan & Minuman,12160,0,0,5,2017,1,dataset_3
-2017-05-28,,Kebutuhan Rumah Tangga,189240,6,1,5,2017,0,dataset_3
+2017-05-28,Tanpa Deskripsi,Kebutuhan Rumah Tangga,189240,6,1,5,2017,0,dataset_3
 2017-05-28,2 kachori,Makanan & Minuman,4560,6,1,5,2017,1,dataset_3
-2017-05-28,,Makanan & Minuman,8550,6,1,5,2017,1,dataset_3
+2017-05-28,Tanpa Deskripsi,Makanan & Minuman,8550,6,1,5,2017,1,dataset_3
 2017-05-28,Mango 1 kg,Makanan & Minuman,26600,6,1,5,2017,1,dataset_3
-2017-05-28,,Makanan & Minuman,5700,6,1,5,2017,1,dataset_3
-2017-05-28,,Makanan & Minuman,11400,6,1,5,2017,1,dataset_3
+2017-05-28,Tanpa Deskripsi,Makanan & Minuman,5700,6,1,5,2017,1,dataset_3
+2017-05-28,Tanpa Deskripsi,Makanan & Minuman,11400,6,1,5,2017,1,dataset_3
 2017-05-28,Medu vada 1 plate + dal vada 1,Makanan & Minuman,13300,6,1,5,2017,1,dataset_3
 2017-05-27,milk 1lit ,Makanan & Minuman,12160,5,1,5,2017,1,dataset_3
 2017-05-27,Print outs+ Xerox,Pendidikan,3800,5,1,5,2017,0,dataset_3
 2017-05-27,Pav kg tomato,Makanan & Minuman,3800,5,1,5,2017,1,dataset_3
 2017-05-25,Ragda Puri,Makanan & Minuman,5700,3,0,5,2017,1,dataset_3
 2017-05-25,Place 0 to Vikhroli single,Transportasi,2850,3,0,5,2017,0,dataset_3
-2017-05-24,,Langganan Digital,49590,2,0,5,2017,1,dataset_3
+2017-05-24,Tanpa Deskripsi,Langganan Digital,49590,2,0,5,2017,1,dataset_3
 2017-05-24,Samosa pav @ kurla,Makanan & Minuman,2850,2,0,5,2017,1,dataset_3
 2017-05-24,Place 0 to Vikhroli return,Transportasi,5700,2,0,5,2017,0,dataset_3
 2017-05-24,milk 1lit ,Makanan & Minuman,12160,2,0,5,2017,1,dataset_3
@@ -9467,29 +9467,29 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-05-21,3 kg ( 2kg bajari Rs 7 each + 1kg gahu & maka mix Rs.10),Makanan & Minuman,4560,6,1,5,2017,1,dataset_3
 2017-05-21,Decathlon to station,Transportasi,3800,6,1,5,2017,0,dataset_3
 2017-05-18,pav bhaji + 5 pav extra,Makanan & Minuman,41610,3,0,5,2017,1,dataset_3
-2017-05-18,,Makanan & Minuman,1900,3,0,5,2017,1,dataset_3
-2017-05-18,,Makanan & Minuman,11400,3,0,5,2017,1,dataset_3
+2017-05-18,Tanpa Deskripsi,Makanan & Minuman,1900,3,0,5,2017,1,dataset_3
+2017-05-18,Tanpa Deskripsi,Makanan & Minuman,11400,3,0,5,2017,1,dataset_3
 2017-05-18,Bhai poli,Makanan & Minuman,8550,3,0,5,2017,1,dataset_3
 2017-05-18,Poha,Makanan & Minuman,4750,3,0,5,2017,1,dataset_3
 2017-05-18,Shaving,Kecantikan & Perawatan,9500,3,0,5,2017,1,dataset_3
 2017-05-18,milk 1lit ,Makanan & Minuman,12160,3,0,5,2017,1,dataset_3
-2017-05-17,,Makanan & Minuman,950,2,0,5,2017,1,dataset_3
+2017-05-17,Tanpa Deskripsi,Makanan & Minuman,950,2,0,5,2017,1,dataset_3
 2017-05-17,Vanila family pack,Makanan & Minuman,18810,2,0,5,2017,1,dataset_3
 2017-05-17,Full egg fried rice 100 + Manchurian dry 100,Makanan & Minuman,39900,2,0,5,2017,1,dataset_3
-2017-05-17,,Makanan & Minuman,1900,2,0,5,2017,1,dataset_3
-2017-05-16,,Makanan & Minuman,1900,1,0,5,2017,1,dataset_3
+2017-05-17,Tanpa Deskripsi,Makanan & Minuman,1900,2,0,5,2017,1,dataset_3
+2017-05-16,Tanpa Deskripsi,Makanan & Minuman,1900,1,0,5,2017,1,dataset_3
 2017-05-16,Razor Blade,Kecantikan & Perawatan,46930,1,0,5,2017,1,dataset_3
 2017-05-16,Non veg combo meal,Makanan & Minuman,44460,1,0,5,2017,1,dataset_3
-2017-05-16,,Makanan & Minuman,950,1,0,5,2017,1,dataset_3
+2017-05-16,Tanpa Deskripsi,Makanan & Minuman,950,1,0,5,2017,1,dataset_3
 2017-05-15,March 210 + April 170,Langganan Digital,72200,0,0,5,2017,1,dataset_3
 2017-05-15,Veg cheese grill sandwich,Makanan & Minuman,19000,0,0,5,2017,1,dataset_3
 2017-05-15,Poha 25+ tea 10,Makanan & Minuman,6650,0,0,5,2017,1,dataset_3
 2017-05-14,Shev bhaji sev,Kebutuhan Rumah Tangga,9500,6,1,5,2017,0,dataset_3
 2017-05-14,Non veg overloaded pizza,Makanan & Minuman,45980,6,1,5,2017,1,dataset_3
 2017-05-13,Non veg overloaded pizza,Makanan & Minuman,45980,5,1,5,2017,1,dataset_3
-2017-05-13,,Makanan & Minuman,1900,5,1,5,2017,1,dataset_3
+2017-05-13,Tanpa Deskripsi,Makanan & Minuman,1900,5,1,5,2017,1,dataset_3
 2017-05-13,4 chapati,Makanan & Minuman,3800,5,1,5,2017,1,dataset_3
-2017-05-13,,Makanan & Minuman,950,5,1,5,2017,1,dataset_3
+2017-05-13,Tanpa Deskripsi,Makanan & Minuman,950,5,1,5,2017,1,dataset_3
 2017-05-13,Medu vada 1 plate,Makanan & Minuman,6650,5,1,5,2017,1,dataset_3
 2017-04-30,chocobar,Makanan & Minuman,1900,6,1,4,2017,1,dataset_3
 2017-04-30,2 Place 0 to Current Residence,Transportasi,5700,6,1,4,2017,0,dataset_3
@@ -9520,8 +9520,8 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-04-18,milk 1lit ,Makanan & Minuman,12160,1,0,4,2017,1,dataset_3
 2017-04-17,"The X restaurant, Place 1",Makanan & Minuman,204440,0,0,4,2017,1,dataset_3
 2017-04-17,H&M clothes,Keluarga & Sosial,284430,0,0,4,2017,0,dataset_3
-2017-04-16,,Langganan Digital,36480,6,1,4,2017,1,dataset_3
-2017-04-14,,Keluarga & Sosial,950000,4,0,4,2017,0,dataset_3
+2017-04-16,Tanpa Deskripsi,Langganan Digital,36480,6,1,4,2017,1,dataset_3
+2017-04-14,Tanpa Deskripsi,Keluarga & Sosial,950000,4,0,4,2017,0,dataset_3
 2017-03-31,2 Place 0 to dadar return,Transportasi,11400,4,0,3,2017,0,dataset_3
 2017-03-31,siddhivinayak to shiv sena bhavan,Transportasi,5700,4,0,3,2017,0,dataset_3
 2017-03-31,Dadar West to siddhivinayak,Transportasi,5700,4,0,3,2017,0,dataset_3
@@ -9530,7 +9530,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-03-31,Laptop repair (servicing+ 2gb ram upgrade + fan replacement + antivirus),Kebutuhan Rumah Tangga,475000,4,0,3,2017,0,dataset_3
 2017-03-31,Place 0 to Current Residence,Transportasi,2850,4,0,3,2017,0,dataset_3
 2017-03-31,2 Current Residence to Place 0,Transportasi,5700,4,0,3,2017,0,dataset_3
-2017-03-30,,Kebutuhan Rumah Tangga,46550,3,0,3,2017,0,dataset_3
+2017-03-30,Tanpa Deskripsi,Kebutuhan Rumah Tangga,46550,3,0,3,2017,0,dataset_3
 2017-03-28,Soda water,Makanan & Minuman,2280,1,0,3,2017,1,dataset_3
 2017-03-27,USB cord,Kebutuhan Rumah Tangga,49400,0,0,3,2017,0,dataset_3
 2017-03-27,milk 1lit ,Makanan & Minuman,11400,0,0,3,2017,1,dataset_3
@@ -9542,11 +9542,11 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-03-25,Place 2 to Place 1,Transportasi,171000,5,1,3,2017,0,dataset_3
 2017-03-25,Doctor Fees,Kesehatan,28500,5,1,3,2017,0,dataset_3
 2017-03-25,milk 1 lit,Makanan & Minuman,11400,5,1,3,2017,1,dataset_3
-2017-03-23,,Keluarga & Sosial,570000,3,0,3,2017,0,dataset_3
+2017-03-23,Tanpa Deskripsi,Keluarga & Sosial,570000,3,0,3,2017,0,dataset_3
 2017-03-23,3 sugarcane juice,Makanan & Minuman,11400,3,0,3,2017,1,dataset_3
 2017-03-23,Fifa 21 pc,Lainnya,284810,3,0,3,2017,1,dataset_3
 2017-03-22,2 Place 0 to Current Residence,Transportasi,3800,2,0,3,2017,0,dataset_3
-2017-03-22,,Transportasi,9500,2,0,3,2017,0,dataset_3
+2017-03-22,Tanpa Deskripsi,Transportasi,9500,2,0,3,2017,0,dataset_3
 2017-03-22,Mattress advance,Kebutuhan Rumah Tangga,95000,2,0,3,2017,0,dataset_3
 2017-03-22,within city,Transportasi,6270,2,0,3,2017,0,dataset_3
 2017-03-22,2 Place 6 to Place 7,Transportasi,3420,2,0,3,2017,0,dataset_3
@@ -9556,14 +9556,14 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-03-20,2 Spike guard,Kebutuhan Rumah Tangga,85500,0,0,3,2017,0,dataset_3
 2017-03-19,Mobile Service Provider freedom pack,Langganan Digital,56240,6,1,3,2017,1,dataset_3
 2017-03-18,2 samosa (32) + 25 Pani Puri,Makanan & Minuman,10830,5,1,3,2017,1,dataset_3
-2017-03-18,,Makanan & Minuman,30400,5,1,3,2017,1,dataset_3
+2017-03-18,Tanpa Deskripsi,Makanan & Minuman,30400,5,1,3,2017,1,dataset_3
 2017-03-18,Grapes + apple + guava,Makanan & Minuman,58900,5,1,3,2017,1,dataset_3
 2017-03-16,6 months ( 30mb UL plan + 1 month free),Langganan Digital,535800,3,0,3,2017,1,dataset_3
 2017-03-15,drainage powder,Kebutuhan Rumah Tangga,9500,2,0,3,2017,0,dataset_3
 2017-03-15,2 toast+ 2 parle g + Marie gold,Kebutuhan Rumah Tangga,21090,2,0,3,2017,0,dataset_3
 2017-03-15,2 softy,Makanan & Minuman,7600,2,0,3,2017,1,dataset_3
 2017-03-14,2 bath stool,Kebutuhan Rumah Tangga,57000,1,0,3,2017,0,dataset_3
-2017-03-13,,Makanan & Minuman,19000,0,0,3,2017,1,dataset_3
+2017-03-13,Tanpa Deskripsi,Makanan & Minuman,19000,0,0,3,2017,1,dataset_3
 2017-03-13,Wall hanging clipboard,Kebutuhan Rumah Tangga,76000,0,0,3,2017,0,dataset_3
 2017-03-13,hair cut,Kecantikan & Perawatan,19000,0,0,3,2017,1,dataset_3
 2017-03-13,ceiling fans repair,Kebutuhan Rumah Tangga,304000,0,0,3,2017,0,dataset_3
@@ -9572,7 +9572,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-02-28,Place 0 to Current Residence,Transportasi,5700,1,0,2,2017,0,dataset_3
 2017-02-28,2 Place 3m to vadala rd,Transportasi,1900,1,0,2,2017,0,dataset_3
 2017-02-28,BEST 138 - Marine drive to Place 3m,Transportasi,2280,1,0,2,2017,0,dataset_3
-2017-02-28,,Makanan & Minuman,1900,1,0,2,2017,1,dataset_3
+2017-02-28,Tanpa Deskripsi,Makanan & Minuman,1900,1,0,2,2017,1,dataset_3
 2017-02-28,fine,Lainnya,76000,1,0,2,2017,1,dataset_3
 2017-02-28,At restaurant,Makanan & Minuman,459990,1,0,2,2017,1,dataset_3
 2017-02-28,2 Santacruz to churchgate,Transportasi,3800,1,0,2,2017,0,dataset_3
@@ -9589,14 +9589,14 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-02-27,milk 1lit  + amul butter milk,Makanan & Minuman,14440,0,0,2,2017,1,dataset_3
 2017-02-26,Place 0 to WS returns,Transportasi,3800,6,1,2,2017,0,dataset_3
 2017-02-26,Current Residence to Place 0,Transportasi,5700,6,1,2,2017,0,dataset_3
-2017-02-26,,Kebutuhan Rumah Tangga,160740,6,1,2,2017,0,dataset_3
+2017-02-26,Tanpa Deskripsi,Kebutuhan Rumah Tangga,160740,6,1,2,2017,0,dataset_3
 2017-02-26,dustbin + basin sink cover,Kebutuhan Rumah Tangga,68400,6,1,2,2017,0,dataset_3
 2017-02-26,2 Jumbo king burger,Makanan & Minuman,11020,6,1,2,2017,1,dataset_3
 2017-02-25,exide inverter battery 150amp,Kebutuhan Rumah Tangga,1615000,5,1,2,2017,0,dataset_3
 2017-02-25,tube and inverter fitting,Kebutuhan Rumah Tangga,304000,5,1,2,2017,0,dataset_3
 2017-02-25,hp cylinder,Kebutuhan Rumah Tangga,174800,5,1,2,2017,0,dataset_3
 2017-02-25,veg paneer tikka 4 roti,Makanan & Minuman,60420,5,1,2,2017,1,dataset_3
-2017-02-25,,Langganan Digital,19000,5,1,2,2017,1,dataset_3
+2017-02-25,Tanpa Deskripsi,Langganan Digital,19000,5,1,2,2017,1,dataset_3
 2017-02-25,veg triple Schwan fried rice,Makanan & Minuman,46930,5,1,2,2017,1,dataset_3
 2017-02-24,milk 1 lit + butter milk,Makanan & Minuman,14250,4,0,2,2017,1,dataset_3
 2017-02-24,3 tea yevle amrutullya,Makanan & Minuman,5700,4,0,2,2017,1,dataset_3
@@ -9608,7 +9608,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-02-19,sugarcane juice 2,Makanan & Minuman,5700,6,1,2,2017,1,dataset_3
 2017-02-19,laminated colour print out,Pendidikan,4750,6,1,2,2017,0,dataset_3
 2017-02-19,undergarments pair of Jockey,Belanja & Lifestyle,94620,6,1,2,2017,1,dataset_3
-2017-02-18,,Keluarga & Sosial,95000,5,1,2,2017,0,dataset_3
+2017-02-18,Tanpa Deskripsi,Keluarga & Sosial,95000,5,1,2,2017,0,dataset_3
 2017-02-18,Mobile Service Provider recharge wfh,Langganan Digital,57190,5,1,2,2017,1,dataset_3
 2017-02-16,farewell contribution,Keluarga & Sosial,76000,3,0,2,2017,0,dataset_3
 2017-02-13,Mobile Service Provider recharge wfh,Langganan Digital,57190,0,0,2,2017,1,dataset_3
@@ -9622,10 +9622,10 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2017-01-29,half liter buffalo,Makanan & Minuman,6650,6,1,1,2017,1,dataset_3
 2017-01-29,within city,Transportasi,5700,6,1,1,2017,0,dataset_3
 2017-01-29,2 tickets Place 2 to N,Transportasi,96900,6,1,1,2017,0,dataset_3
-2017-01-23,,Langganan Digital,34390,0,0,1,2017,1,dataset_3
+2017-01-23,Tanpa Deskripsi,Langganan Digital,34390,0,0,1,2017,1,dataset_3
 2017-01-23,Birthday gift,Keluarga & Sosial,123310,0,0,1,2017,0,dataset_3
-2017-01-22,,Keluarga & Sosial,380000,6,1,1,2017,0,dataset_3
-2017-01-22,,Makanan & Minuman,77900,6,1,1,2017,1,dataset_3
+2017-01-22,Tanpa Deskripsi,Keluarga & Sosial,380000,6,1,1,2017,0,dataset_3
+2017-01-22,Tanpa Deskripsi,Makanan & Minuman,77900,6,1,1,2017,1,dataset_3
 2017-01-21,Mobile Service Provider recharge,Langganan Digital,28310,5,1,1,2017,1,dataset_3
 2017-01-20,Mobile Service Provider recharge wfh,Langganan Digital,57190,4,0,1,2017,1,dataset_3
 2017-01-19,2 Bombay vada pav,Makanan & Minuman,3800,3,0,1,2017,1,dataset_3
@@ -9647,7 +9647,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2016-12-29,xerox,Lainnya,4750,3,0,12,2016,1,dataset_3
 2016-12-29,2 chips packets,Makanan & Minuman,1900,3,0,12,2016,1,dataset_3
 2016-12-29,1 sher bajri 1 kg dadar 1 kg makka,Makanan & Minuman,2660,3,0,12,2016,1,dataset_3
-2016-12-29,,Langganan Digital,40660,3,0,12,2016,1,dataset_3
+2016-12-29,Tanpa Deskripsi,Langganan Digital,40660,3,0,12,2016,1,dataset_3
 2016-12-29,LTT to Place 2 (Patna Exp) cancellation,Transportasi,76570,3,0,12,2016,0,dataset_3
 2016-12-29,Nokia 215 mobile for Aai,Keluarga & Sosial,607050,3,0,12,2016,0,dataset_3
 2016-12-28,Monaco biscuits,Makanan & Minuman,1900,2,0,12,2016,1,dataset_3
@@ -9662,9 +9662,9 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2016-12-19,sensitive toothbrush,Kebutuhan Rumah Tangga,9310,0,0,12,2016,0,dataset_3
 2016-12-19,chips 1 Kurkure (19) 1 lays (10),Makanan & Minuman,5510,0,0,12,2016,1,dataset_3
 2016-12-19,1 kg mosambi 1 kg apple,Makanan & Minuman,32300,0,0,12,2016,1,dataset_3
-2016-12-18,,Keluarga & Sosial,380000,6,1,12,2016,0,dataset_3
+2016-12-18,Tanpa Deskripsi,Keluarga & Sosial,380000,6,1,12,2016,0,dataset_3
 2016-12-17,Mobile Service Provider recharge wfh,Langganan Digital,57190,5,1,12,2016,1,dataset_3
-2016-12-14,,Makanan & Minuman,38000,2,0,12,2016,1,dataset_3
+2016-12-14,Tanpa Deskripsi,Makanan & Minuman,38000,2,0,12,2016,1,dataset_3
 2016-12-13,kalnirnay calender,Lainnya,6650,1,0,12,2016,1,dataset_3
 2016-12-13,oralB toothbrush with cap,Kebutuhan Rumah Tangga,4750,1,0,12,2016,0,dataset_3
 2016-12-13,farewell contribution,Keluarga & Sosial,66500,1,0,12,2016,0,dataset_3
@@ -9703,23 +9703,23 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2016-10-31,Mi band 5 ( Bhaiduj gift),Hiburan & Gaya Hidup,379810,0,0,10,2016,1,dataset_3
 2016-10-28,syrup+tablet+ mortein refill,Kesehatan,41990,4,0,10,2016,0,dataset_3
 2016-10-28,Permanent Residence to pathology,Transportasi,7600,4,0,10,2016,0,dataset_3
-2016-10-27,,Langganan Digital,47690,3,0,10,2016,1,dataset_3
+2016-10-27,Tanpa Deskripsi,Langganan Digital,47690,3,0,10,2016,1,dataset_3
 2016-10-27,Undated Planner - June shop,Keluarga & Sosial,212648,3,0,10,2016,0,dataset_3
 2016-10-27,mehndi,Makanan & Minuman,4750,3,0,10,2016,1,dataset_3
 2016-10-27,apple + mosambi 1kg each,Makanan & Minuman,32300,3,0,10,2016,1,dataset_3
-2016-10-26,,Kesehatan,117230,2,0,10,2016,0,dataset_3
+2016-10-26,Tanpa Deskripsi,Kesehatan,117230,2,0,10,2016,0,dataset_3
 2016-10-25,egg roll,Makanan & Minuman,4750,1,0,10,2016,1,dataset_3
 2016-10-24,popcorn+mehndi+mosambi+orange+all out refill,Makanan & Minuman,60800,0,0,10,2016,1,dataset_3
 2016-10-22,Khari,Makanan & Minuman,6650,5,1,10,2016,1,dataset_3
 2016-10-22,pav vada,Makanan & Minuman,3800,5,1,10,2016,1,dataset_3
 2016-10-17,butter + paneer + pav+batate+tamate,Makanan & Minuman,40850,0,0,10,2016,1,dataset_3
-2016-10-15,,Makanan & Minuman,81700,5,1,10,2016,1,dataset_3
+2016-10-15,Tanpa Deskripsi,Makanan & Minuman,81700,5,1,10,2016,1,dataset_3
 2016-10-14,sugar + biscuits,Makanan & Minuman,22800,4,0,10,2016,1,dataset_3
 2016-10-13,scratch guard ipad,Keluarga & Sosial,47310,3,0,10,2016,0,dataset_3
 2016-09-28,flour mill,Lainnya,6080,2,0,9,2016,1,dataset_3
-2016-09-19,,Makanan & Minuman,6270,0,0,9,2016,1,dataset_3
+2016-09-19,Tanpa Deskripsi,Makanan & Minuman,6270,0,0,9,2016,1,dataset_3
 2016-09-15,chocobar+milk+chips,Makanan & Minuman,18050,3,0,9,2016,1,dataset_3
-2016-09-14,,Langganan Digital,47690,2,0,9,2016,1,dataset_3
+2016-09-14,Tanpa Deskripsi,Langganan Digital,47690,2,0,9,2016,1,dataset_3
 2016-09-14,baggit purse,Keluarga & Sosial,83030,2,0,9,2016,0,dataset_3
 2016-09-13,brownie,Makanan & Minuman,13300,1,0,9,2016,1,dataset_3
 2016-09-13,riverdine date,Makanan & Minuman,160550,1,0,9,2016,1,dataset_3
@@ -9727,20 +9727,20 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2016-08-29,boric powder,Kebutuhan Rumah Tangga,7600,0,0,8,2016,0,dataset_3
 2016-08-29,lizol,Kebutuhan Rumah Tangga,18620,0,0,8,2016,0,dataset_3
 2016-08-24,rakshabandhan ovalni ,Hiburan & Gaya Hidup,95000,2,0,8,2016,1,dataset_3
-2016-08-23,,Keluarga & Sosial,380000,1,0,8,2016,0,dataset_3
+2016-08-23,Tanpa Deskripsi,Keluarga & Sosial,380000,1,0,8,2016,0,dataset_3
 2016-08-22,rakshabandhan ovalni ,Hiburan & Gaya Hidup,95000,0,0,8,2016,1,dataset_3
 2016-08-21,earphones,Lainnya,19000,6,1,8,2016,1,dataset_3
-2016-08-18,,Langganan Digital,47690,3,0,8,2016,1,dataset_3
+2016-08-18,Tanpa Deskripsi,Langganan Digital,47690,3,0,8,2016,1,dataset_3
 2016-08-14,pens,Lainnya,950,6,1,8,2016,1,dataset_3
 2016-08-14,hair cut,Kecantikan & Perawatan,19000,6,1,8,2016,1,dataset_3
 2016-07-31,frame for specs,Lainnya,47500,6,1,7,2016,1,dataset_3
-2016-07-25,,Langganan Digital,47690,0,0,7,2016,1,dataset_3
-2016-07-21,,Langganan Digital,47690,3,0,7,2016,1,dataset_3
+2016-07-25,Tanpa Deskripsi,Langganan Digital,47690,0,0,7,2016,1,dataset_3
+2016-07-21,Tanpa Deskripsi,Langganan Digital,47690,3,0,7,2016,1,dataset_3
 2016-07-20,Mobile Service Provider recharge 365 days,Langganan Digital,493810,2,0,7,2016,1,dataset_3
 2016-07-13,citrizen + crocine,Kesehatan,1900,2,0,7,2016,0,dataset_3
 2016-06-30,pan card application,Lainnya,20311,3,0,6,2016,1,dataset_3
 2016-06-27,Chalisgaon to Baroda return,Transportasi,608000,0,0,6,2016,0,dataset_3
-2016-06-27,,Langganan Digital,47690,0,0,6,2016,1,dataset_3
+2016-06-27,Tanpa Deskripsi,Langganan Digital,47690,0,0,6,2016,1,dataset_3
 2016-06-23,Amazon prime subscription,Langganan Digital,189050,3,0,6,2016,1,dataset_3
 2016-06-22,Mobile Service Provider sim card porting,Langganan Digital,66500,2,0,6,2016,1,dataset_3
 2016-06-20,icecream,Makanan & Minuman,26600,0,0,6,2016,1,dataset_3
@@ -9748,23 +9748,23 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2016-06-19,Family exam form,Keluarga & Sosial,171950,6,1,6,2016,0,dataset_3
 2016-06-18,flour mill,Lainnya,7220,5,1,6,2016,1,dataset_3
 2016-05-31,Permanent Residence to LB road,Transportasi,9500,1,0,5,2016,0,dataset_3
-2016-05-30,,Langganan Digital,47690,0,0,5,2016,1,dataset_3
+2016-05-30,Tanpa Deskripsi,Langganan Digital,47690,0,0,5,2016,1,dataset_3
 2016-05-29,sanitary napkins+chocolates+Maggie+khajoor,Makanan & Minuman,95760,6,1,5,2016,1,dataset_3
 2016-05-22,hair cut+shaving,Kecantikan & Perawatan,22800,6,1,5,2016,1,dataset_3
 2016-05-22,Permanent Residence to nearby hospital,Transportasi,7600,6,1,5,2016,0,dataset_3
 2016-05-19,agarbatti + icecream pack,Makanan & Minuman,34200,3,0,5,2016,1,dataset_3
 2016-05-17,Aadhar mobile number and email id updated,Lainnya,19000,1,0,5,2016,1,dataset_3
-2016-05-16,,Langganan Digital,47690,0,0,5,2016,1,dataset_3
+2016-05-16,Tanpa Deskripsi,Langganan Digital,47690,0,0,5,2016,1,dataset_3
 2016-04-28,subscription,Langganan Digital,56810,3,0,4,2016,1,dataset_3
 2016-04-26,dettol handwash + khari + toast + goodday,Makanan & Minuman,49210,1,0,4,2016,1,dataset_3
 2016-04-24,kindle unlimited,Langganan Digital,32110,6,1,4,2016,1,dataset_3
-2016-04-20,,Langganan Digital,47690,2,0,4,2016,1,dataset_3
+2016-04-20,Tanpa Deskripsi,Langganan Digital,47690,2,0,4,2016,1,dataset_3
 2016-04-16,sensodyne toothbrush,Kebutuhan Rumah Tangga,9500,5,1,4,2016,0,dataset_3
-2016-04-15,,Langganan Digital,47690,4,0,4,2016,1,dataset_3
+2016-04-15,Tanpa Deskripsi,Langganan Digital,47690,4,0,4,2016,1,dataset_3
 2016-03-29,owalni,Lainnya,19000,1,0,3,2016,1,dataset_3
 2016-03-28,hit spray(99)+biscuits+mask,Lainnya,30210,0,0,3,2016,1,dataset_3
 2016-03-22,kindle unlimited,Langganan Digital,32110,1,0,3,2016,1,dataset_3
-2016-03-21,,Langganan Digital,47690,0,0,3,2016,1,dataset_3
+2016-03-21,Tanpa Deskripsi,Langganan Digital,47690,0,0,3,2016,1,dataset_3
 2016-03-20,sambhar masala,Makanan & Minuman,6650,6,1,3,2016,1,dataset_3
 2016-03-20,print out,Lainnya,950,6,1,3,2016,1,dataset_3
 2016-03-16,Ganesh murthi,Keluarga & Sosial,15200,2,0,3,2016,0,dataset_3
@@ -9794,12 +9794,12 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2015-12-25,dustbin bags,Kebutuhan Rumah Tangga,9500,4,0,12,2015,0,dataset_3
 2015-12-21,kindle unlimited,Lainnya,32110,0,0,12,2015,1,dataset_3
 2015-12-20,secret Santa - diary,Keluarga & Sosial,88350,6,1,12,2015,0,dataset_3
-2015-12-19,,Makanan & Minuman,15200,5,1,12,2015,1,dataset_3
+2015-12-19,Tanpa Deskripsi,Makanan & Minuman,15200,5,1,12,2015,1,dataset_3
 2015-12-19,hand sanitizer,Kesehatan,41800,5,1,12,2015,0,dataset_3
 2015-12-19,eye drop maxmoist,Kesehatan,44650,5,1,12,2015,0,dataset_3
-2015-11-29,,Transportasi,9500,6,1,11,2015,0,dataset_3
-2015-11-29,,Transportasi,5700,6,1,11,2015,0,dataset_3
-2015-11-29,,Transportasi,7600,6,1,11,2015,0,dataset_3
+2015-11-29,Tanpa Deskripsi,Transportasi,9500,6,1,11,2015,0,dataset_3
+2015-11-29,Tanpa Deskripsi,Transportasi,5700,6,1,11,2015,0,dataset_3
+2015-11-29,Tanpa Deskripsi,Transportasi,7600,6,1,11,2015,0,dataset_3
 2015-11-27,egg roll,Makanan & Minuman,4750,4,0,11,2015,1,dataset_3
 2015-11-26,audible subscription,Lainnya,37810,3,0,11,2015,1,dataset_3
 2015-11-21,Mobile Service Provider recharge wfh,Lainnya,47690,5,1,11,2015,1,dataset_3
@@ -9807,7 +9807,7 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2015-11-14,flowers (.5kg)+sweets (.25gm+10/-)+vegetables (1.5kg),Lainnya,58900,5,1,11,2015,1,dataset_3
 2015-10-31,water bottle + khari sing,Makanan & Minuman,13300,5,1,10,2015,1,dataset_3
 2015-10-31,b45 to Pandya bridge,Transportasi,13490,5,1,10,2015,0,dataset_3
-2015-10-31,,Makanan & Minuman,1900,5,1,10,2015,1,dataset_3
+2015-10-31,Tanpa Deskripsi,Makanan & Minuman,1900,5,1,10,2015,1,dataset_3
 2015-10-31,sweats,Makanan & Minuman,47500,5,1,10,2015,1,dataset_3
 2015-10-31,face mask,Kesehatan,28500,5,1,10,2015,0,dataset_3
 2015-10-31,golden circle to b45,Transportasi,34200,5,1,10,2015,0,dataset_3
@@ -9860,10 +9860,10 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2015-04-18,snacks,Makanan & Minuman,61560,5,1,4,2015,1,dataset_3
 2015-04-14,covid19 donation to PM fund,Lainnya,95000,1,0,4,2015,1,dataset_3
 2015-03-29,kala hit,Kesehatan,51110,6,1,3,2015,0,dataset_3
-2015-03-29,,Makanan & Minuman,28500,6,1,3,2015,1,dataset_3
-2015-03-25,,Tagihan Utilitas,3800,2,0,3,2015,0,dataset_3
-2015-03-24,,Makanan & Minuman,4940,1,0,3,2015,1,dataset_3
-2015-03-23,,Makanan & Minuman,82422,0,0,3,2015,1,dataset_3
+2015-03-29,Tanpa Deskripsi,Makanan & Minuman,28500,6,1,3,2015,1,dataset_3
+2015-03-25,Tanpa Deskripsi,Tagihan Utilitas,3800,2,0,3,2015,0,dataset_3
+2015-03-24,Tanpa Deskripsi,Makanan & Minuman,4940,1,0,3,2015,1,dataset_3
+2015-03-23,Tanpa Deskripsi,Makanan & Minuman,82422,0,0,3,2015,1,dataset_3
 2015-03-23,refilling,Tagihan Utilitas,3800,0,0,3,2015,0,dataset_3
 2015-03-20,dry cleaning,Belanja & Lifestyle,19000,4,0,3,2015,1,dataset_3
 2015-03-20,dentist check-up,Kesehatan,703000,4,0,3,2015,0,dataset_3
@@ -9871,26 +9871,26 @@ date,description,category,amount,day_of_week,is_weekend,month,year,label,source
 2015-03-18,samosa+tea+veg cheese grill sandwich,Makanan & Minuman,10070,2,0,3,2015,1,dataset_3
 2015-03-18,dal fry and chapati,Makanan & Minuman,4750,2,0,3,2015,1,dataset_3
 2015-03-18,aloo paratha,Makanan & Minuman,3800,2,0,3,2015,1,dataset_3
-2015-03-18,,Makanan & Minuman,4940,2,0,3,2015,1,dataset_3
+2015-03-18,Tanpa Deskripsi,Makanan & Minuman,4940,2,0,3,2015,1,dataset_3
 2015-03-17,laptop repair,Lainnya,85500,1,0,3,2015,1,dataset_3
 2015-03-16,dentist check-up,Kesehatan,190000,0,0,3,2015,0,dataset_3
-2015-03-16,,Makanan & Minuman,3800,0,0,3,2015,1,dataset_3
+2015-03-16,Tanpa Deskripsi,Makanan & Minuman,3800,0,0,3,2015,1,dataset_3
 2015-03-15,altering,Belanja & Lifestyle,5700,6,1,3,2015,1,dataset_3
 2015-03-15,shakti + bread,Makanan & Minuman,6840,6,1,3,2015,1,dataset_3
 2015-03-15,cycle air pumping,Lainnya,950,6,1,3,2015,1,dataset_3
 2015-03-14,ironing,Belanja & Lifestyle,7600,5,1,3,2015,1,dataset_3
-2015-03-14,,Makanan & Minuman,4940,5,1,3,2015,1,dataset_3
+2015-03-14,Tanpa Deskripsi,Makanan & Minuman,4940,5,1,3,2015,1,dataset_3
 2015-03-13,to office,Transportasi,1900,4,0,3,2015,0,dataset_3
-2015-02-28,,Makanan & Minuman,4940,5,1,2,2015,1,dataset_3
+2015-02-28,Tanpa Deskripsi,Makanan & Minuman,4940,5,1,2,2015,1,dataset_3
 2015-02-28,chicken thali,Makanan & Minuman,10450,5,1,2,2015,1,dataset_3
-2015-02-28,,Makanan & Minuman,3800,5,1,2,2015,1,dataset_3
-2015-02-26,,Makanan & Minuman,1140,3,0,2,2015,1,dataset_3
+2015-02-28,Tanpa Deskripsi,Makanan & Minuman,3800,5,1,2,2015,1,dataset_3
+2015-02-26,Tanpa Deskripsi,Makanan & Minuman,1140,3,0,2,2015,1,dataset_3
 2015-02-26,office to vasna road,Transportasi,11400,3,0,2,2015,0,dataset_3
 2015-02-26,eggs,Makanan & Minuman,5700,3,0,2,2015,1,dataset_3
-2015-02-26,,Makanan & Minuman,4940,3,0,2,2015,1,dataset_3
+2015-02-26,Tanpa Deskripsi,Makanan & Minuman,4940,3,0,2,2015,1,dataset_3
 2015-02-24,vegetable,Makanan & Minuman,30400,1,0,2,2015,1,dataset_3
 2015-02-24,ola auto - BRC to b45,Transportasi,12540,1,0,2,2015,0,dataset_3
-2015-02-24,,Makanan & Minuman,1900,1,0,2,2015,1,dataset_3
+2015-02-24,Tanpa Deskripsi,Makanan & Minuman,1900,1,0,2,2015,1,dataset_3
 2015-02-23,Bandra to Bandra terminus,Transportasi,3800,0,0,2,2015,0,dataset_3
 2015-02-23,Place 0 to Bandra,Transportasi,3800,0,0,2,2015,0,dataset_3
 2015-02-23,shoe polish,Belanja & Lifestyle,3800,0,0,2,2015,1,dataset_3
